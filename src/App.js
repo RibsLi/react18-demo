@@ -1,7 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
-import Home from './pages/home';
-import About from './pages/about';
+import logo from './logo.svg'
+import './App.css'
+import Home from './pages/home'
+import About from './pages/about'
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
         <About />
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
